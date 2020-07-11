@@ -14,6 +14,6 @@ My main technologies:
 Knowledge in:
 - ReactJS
 - UX/UI Design
-- Linux
+- Linux (Ubuntu)
 - Agile Methodologies
 
