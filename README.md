@@ -1,5 +1,5 @@
 
-My name is Victor Tavares and I'm a Mobile Developer.                                                                                   
+My name is Victor and I'm a Front-End & Mobile Developer.                                                                                   
 _________________________________________________________________________________________________________________________________________
 
 
