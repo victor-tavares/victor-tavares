@@ -1,7 +1,6 @@
 
-Victor Tavares                                                                                                     Welcome to my profile!
+Victor Tavares                                                                                                    
 _________________________________________________________________________________________________________________________________________
-
 
 My name is Victor and I'm a Mobile Developer.
 
