@@ -1,5 +1,5 @@
 
-My name is Victor Tavares and I'm a Mobile Developer. https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png                                                                                      
+My name is Victor Tavares and I'm a Mobile Developer.                                                                                   
 _________________________________________________________________________________________________________________________________________
 
 
